@@ -1,0 +1,12 @@
+c:\users\ivavryk\documents\visual studio 2015\Projects\WebDriverMSTest\WebDriverMSTest\bin\Debug\WebDriverMSTest.dll
+c:\users\ivavryk\documents\visual studio 2015\Projects\WebDriverMSTest\WebDriverMSTest\bin\Debug\WebDriverMSTest.pdb
+c:\users\ivavryk\documents\visual studio 2015\Projects\WebDriverMSTest\WebDriverMSTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\ivavryk\documents\visual studio 2015\Projects\WebDriverMSTest\WebDriverMSTest\bin\Debug\WebDriver.dll
+c:\users\ivavryk\documents\visual studio 2015\Projects\WebDriverMSTest\WebDriverMSTest\bin\Debug\WebDriver.Support.dll
+c:\users\ivavryk\documents\visual studio 2015\Projects\WebDriverMSTest\WebDriverMSTest\bin\Debug\WebDriver.xml
+c:\users\ivavryk\documents\visual studio 2015\Projects\WebDriverMSTest\WebDriverMSTest\bin\Debug\WebDriver.Support.xml
+c:\users\ivavryk\documents\visual studio 2015\Projects\WebDriverMSTest\WebDriverMSTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\ivavryk\documents\visual studio 2015\Projects\WebDriverMSTest\WebDriverMSTest\obj\Debug\WebDriverMSTest.csprojResolveAssemblyReference.cache
+c:\users\ivavryk\documents\visual studio 2015\Projects\WebDriverMSTest\WebDriverMSTest\obj\Debug\WebDriverMSTest.dll
+c:\users\ivavryk\documents\visual studio 2015\Projects\WebDriverMSTest\WebDriverMSTest\obj\Debug\WebDriverMSTest.pdb
+c:\users\ivavryk\documents\visual studio 2015\Projects\WebDriverMSTest\WebDriverMSTest\bin\Debug\IEDriverServer.exe

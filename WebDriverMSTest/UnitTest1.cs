@@ -3,6 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium.IE;
 using OpenQA.Selenium.Remote;
 using OpenQA.Selenium;
+using OpenQA.Selenium.Support.UI;
 using System.Threading;
 
 namespace WebDriverMSTest
@@ -34,15 +35,57 @@ namespace WebDriverMSTest
             var radioCardType = Driver.FindElementById("cc-visa");
 
             txtFirstName.Clear();
-            txtFirstName.SendKeys("V");
+            txtFirstName.SendKeys("Vasya");
 
             txtlastName.Clear();
-            txtlastName.SendKeys("P");
+            txtlastName.SendKeys("Poopkin");
 
             txtEmail.Clear();
-            txtEmail.SendKeys("a@b.com");
+            txtEmail.SendKeys("test@example.com");
 
             radioCardType.Click();
+
+            var wait = new WebDriverWait(Driver, TimeSpan.FromSeconds(6));
+
+            //var frameFormSecondPart = Driver.FindElement(By.Id("payment"));
+
+            //Thread.Sleep(5000);
+
+            //Driver.SwitchTo().Frame(0);
+
+            //Driver.SwitchTo().Frame(frameFormSecondPart);
+
+            //wait.Until(ExpectedConditions.ElementExists(By.Id("F1009")));
+
+            //wait.Until(ExpectedConditions.ElementIsVisible(By.Id("F1009")));
+
+            var txtCreditCardNum = Driver.FindElementByName("CREDITCARDNU");
+            var selectExpMonth = new SelectElement(Driver.FindElementById("F1010_MM"));
+            var selectExpYear = new SelectElement(Driver.FindElementById("F1010_YY"));
+            var txtCVV = Driver.FindElementById(@"F1136");
+            var btnSubmit = Driver.FindElementById(@"btnSubmit");
+
+            txtCreditCardNum.Clear();
+            txtCreditCardNum.SendKeys("8975397698238467");
+
+            selectExpMonth.SelectByText("02");
+            selectExpYear.SelectByText("15");
+
+            txtCVV.Clear();
+            txtCVV.SendKeys("836");
+
+            btnSubmit.SendKeys(Keys.Enter);
+
+            Driver.SwitchTo().DefaultContent();
+
+            // On Donate results page
+
+            string headerSelector = @"h1.firstHeading";
+            var headingElement = wait.Until(ExpectedConditions.ElementIsVisible(By.CssSelector(headerSelector)));
+
+            Assert.AreEqual("Donate-error", headingElement.Text);
+
+            Driver.Dispose();
         }
     }
 }

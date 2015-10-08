@@ -47,15 +47,12 @@ namespace WebDriverMSTest
 
             var wait = new WebDriverWait(Driver, TimeSpan.FromSeconds(6));
 
+            // Something is wrong...
             //var frameFormSecondPart = Driver.FindElement(By.Id("payment"));
-
             //Thread.Sleep(5000);
-
             //Driver.SwitchTo().Frame(0);
             //Driver.SwitchTo().Frame(frameFormSecondPart);
-
             //wait.Until(ExpectedConditions.ElementExists(By.Id("F1009")));
-
             //wait.Until(ExpectedConditions.ElementIsVisible(By.Id("F1009")));
 
             var txtCreditCardNum = Driver.FindElementByName("CREDITCARDNU");

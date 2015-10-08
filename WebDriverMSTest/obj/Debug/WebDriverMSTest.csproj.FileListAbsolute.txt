@@ -10,3 +10,15 @@ c:\users\ivavryk\documents\visual studio 2015\Projects\WebDriverMSTest\WebDriver
 c:\users\ivavryk\documents\visual studio 2015\Projects\WebDriverMSTest\WebDriverMSTest\obj\Debug\WebDriverMSTest.dll
 c:\users\ivavryk\documents\visual studio 2015\Projects\WebDriverMSTest\WebDriverMSTest\obj\Debug\WebDriverMSTest.pdb
 c:\users\ivavryk\documents\visual studio 2015\Projects\WebDriverMSTest\WebDriverMSTest\bin\Debug\IEDriverServer.exe
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\bin\Debug\IEDriverServer.exe
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\bin\Debug\WebDriverMSTest.dll
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\bin\Debug\WebDriverMSTest.pdb
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\bin\Debug\WebDriver.dll
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\bin\Debug\WebDriver.Support.dll
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\bin\Debug\WebDriver.xml
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\bin\Debug\WebDriver.Support.xml
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\obj\Debug\WebDriverMSTest.csprojResolveAssemblyReference.cache
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\obj\Debug\WebDriverMSTest.dll
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\obj\Debug\WebDriverMSTest.pdb

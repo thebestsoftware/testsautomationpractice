@@ -1,0 +1,6 @@
+D:\thebestsoftware\testsautomationpractice\Csharplearning\bin\Debug\Csharplearning.exe.config
+D:\thebestsoftware\testsautomationpractice\Csharplearning\bin\Debug\Csharplearning.exe
+D:\thebestsoftware\testsautomationpractice\Csharplearning\bin\Debug\Csharplearning.pdb
+D:\thebestsoftware\testsautomationpractice\Csharplearning\obj\Debug\Csharplearning.csprojResolveAssemblyReference.cache
+D:\thebestsoftware\testsautomationpractice\Csharplearning\obj\Debug\Csharplearning.exe
+D:\thebestsoftware\testsautomationpractice\Csharplearning\obj\Debug\Csharplearning.pdb

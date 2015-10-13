@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriverMSTest", "WebDriverMSTest\WebDriverMSTest.csproj", "{2C65B0B2-BA0C-4719-B77A-6873CDB742A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharplearning", "Csharplearning\Csharplearning.csproj", "{00BDB829-6BB1-4CC2-9123-47D8DE498120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cours", "Cours\Cours.csproj", "{49B7E1B8-2A22-4A5F-B8AA-C330DA0ACFED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2C65B0B2-BA0C-4719-B77A-6873CDB742A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C65B0B2-BA0C-4719-B77A-6873CDB742A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C65B0B2-BA0C-4719-B77A-6873CDB742A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00BDB829-6BB1-4CC2-9123-47D8DE498120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00BDB829-6BB1-4CC2-9123-47D8DE498120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00BDB829-6BB1-4CC2-9123-47D8DE498120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00BDB829-6BB1-4CC2-9123-47D8DE498120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B7E1B8-2A22-4A5F-B8AA-C330DA0ACFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B7E1B8-2A22-4A5F-B8AA-C330DA0ACFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B7E1B8-2A22-4A5F-B8AA-C330DA0ACFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B7E1B8-2A22-4A5F-B8AA-C330DA0ACFED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

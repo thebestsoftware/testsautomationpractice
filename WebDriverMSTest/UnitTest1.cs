@@ -18,6 +18,7 @@ namespace WebDriverMSTest
             RemoteWebDriver Driver = new InternetExplorerDriver();
             //Driver.Url = "www.football.ua";
             Driver.Navigate().GoToUrl(@"http://en.wikipedia.org/");
+            //Driver.Manage().Window.Maximize();
 
             var lnkSupportUs = Driver.FindElementByCssSelector(@"a[title = 'Support us']");
             lnkSupportUs.Click();
@@ -47,13 +48,6 @@ namespace WebDriverMSTest
 
             var wait = new WebDriverWait(Driver, TimeSpan.FromSeconds(6));
 
-            //var frameFormSecondPart = Driver.FindElement(By.Id("payment"));
-            //Thread.Sleep(5000);
-            //Driver.SwitchTo().Frame(0);
-            //Driver.SwitchTo().Frame(frameFormSecondPart);
-            //wait.Until(ExpectedConditions.ElementExists(By.Id("F1009")));
-            //wait.Until(ExpectedConditions.ElementIsVisible(By.Id("F1009")));
-
             var txtCreditCardNum = Driver.FindElementByName("CREDITCARDNU");
             var selectExpMonth = new SelectElement(Driver.FindElementById("F1010_MM"));
             var selectExpYear = new SelectElement(Driver.FindElementById("F1010_YY"));
@@ -80,7 +74,7 @@ namespace WebDriverMSTest
 
             Assert.AreEqual("Donate-error", headingElement.Text);
 
-            Driver.Dispose();
+            Driver.Quit();
         }
     }
 }

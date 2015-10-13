@@ -1,0 +1,12 @@
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\bin\Release\IEDriverServer.exe
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\bin\Release\WebDriverMSTest.dll
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\bin\Release\WebDriverMSTest.pdb
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\bin\Release\WebDriver.dll
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\bin\Release\WebDriver.Support.dll
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\bin\Release\WebDriver.xml
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\bin\Release\WebDriver.Support.xml
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\bin\Release\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\obj\Release\WebDriverMSTest.csprojResolveAssemblyReference.cache
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\obj\Release\WebDriverMSTest.dll
+D:\thebestsoftware\testsautomationpractice\WebDriverMSTest\obj\Release\WebDriverMSTest.pdb

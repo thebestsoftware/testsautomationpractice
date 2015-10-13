@@ -1,0 +1,12 @@
+D:\thebestsoftware\testsautomationpractice\Cours\bin\Debug\IEDriverServer.exe
+D:\thebestsoftware\testsautomationpractice\Cours\bin\Debug\Cours.dll
+D:\thebestsoftware\testsautomationpractice\Cours\bin\Debug\Cours.pdb
+D:\thebestsoftware\testsautomationpractice\Cours\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\thebestsoftware\testsautomationpractice\Cours\bin\Debug\WebDriver.dll
+D:\thebestsoftware\testsautomationpractice\Cours\bin\Debug\WebDriver.Support.dll
+D:\thebestsoftware\testsautomationpractice\Cours\bin\Debug\WebDriver.xml
+D:\thebestsoftware\testsautomationpractice\Cours\bin\Debug\WebDriver.Support.xml
+D:\thebestsoftware\testsautomationpractice\Cours\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\thebestsoftware\testsautomationpractice\Cours\obj\Debug\Cours.csprojResolveAssemblyReference.cache
+D:\thebestsoftware\testsautomationpractice\Cours\obj\Debug\Cours.dll
+D:\thebestsoftware\testsautomationpractice\Cours\obj\Debug\Cours.pdb

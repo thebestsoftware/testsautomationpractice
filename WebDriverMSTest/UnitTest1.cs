@@ -75,6 +75,7 @@ namespace WebDriverMSTest
             Assert.AreEqual("Donate-error", headingElement.Text);
 
             Driver.Quit();
+            Driver.Dispose();
         }
     }
 }

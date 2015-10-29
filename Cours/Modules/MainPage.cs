@@ -13,6 +13,7 @@ namespace Cours
     class MainPage
     {
         #region Locators
+        
         string maimPage = "https://www.coursera.org/";
         #endregion Locators
 

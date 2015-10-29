@@ -19,6 +19,7 @@ namespace WebDriverMSTest
             //Driver.Url = "www.football.ua";
             Driver.Navigate().GoToUrl(@"http://en.wikipedia.org/");
             //Driver.Manage().Window.Maximize();
+            
 
             var lnkSupportUs = Driver.FindElementByCssSelector(@"a[title = 'Support us']");
             lnkSupportUs.Click();

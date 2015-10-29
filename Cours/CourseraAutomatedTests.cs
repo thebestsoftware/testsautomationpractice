@@ -6,6 +6,7 @@ namespace Cours
     [TestClass]
     public class CourseraSmokeAutotests
     {
+        
         [TestMethod]
         public void OpenMainPage()
         {
